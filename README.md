@@ -14,7 +14,7 @@ This repository is for the request management of the projects uploaded to the or
 ## 2. Create a new issue in this repository.
 - Click on the `Issues` tab.
 - Click on the `New issue` button.
-- Enter the issue title in the `Title` field.
+- Select the `Project Upload Request` template.
 - The issue title should be the project name followed by the request type. For example, `Project Name - UPLOADING`.
   - `UPLOADING` - To request the uploading of the project.
   - `UPDATE` - To request the updating of the project.
