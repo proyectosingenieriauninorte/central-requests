@@ -1,6 +1,6 @@
 ---
 name: Project Name - OTHER
-about: "- Describe any issues or requests in detail."
+about: "Describe any issues or requests in detail."
 title: ''
 labels: ''
 assignees: ''
